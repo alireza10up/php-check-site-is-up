@@ -54,6 +54,7 @@ $websites = [
 		"https://sajjadmehri.ir",
 	],
 	"Organization" => [
+		"https://teach10up.ir/",
 		"https://parswordpress.ir",
 		"https://aylero.ir",
 		"https://asemaninvestgroup.com",
